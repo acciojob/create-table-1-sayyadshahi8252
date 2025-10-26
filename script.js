@@ -3,8 +3,8 @@ function insert_Row() {
 	let celladded=document.getElementById("sampleTable")
 	celladded.insertAdjacentHTML("afterbegin", `
   <tr>
-    <td>New cell1</td>
-    <td>New cell2</td>
+    <td>New Cell1</td>
+    <td>New Cell2</td>
   </tr>
 `);
   
